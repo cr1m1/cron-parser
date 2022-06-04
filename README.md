@@ -1,6 +1,6 @@
 #   Cron-Parser
 
-A command line application or script which parses a cron string and expands each field to show the times at which it will run. This program was a task for internship.
+A command line application which parses a cron string and expands each field to show the times at which it will run. This program was a task for an internship.
 
 Can parse minutes, hours, days of month, monthes and days of week. But does not support special strings as "@yearly", "L", "W", "?", "#".
 
